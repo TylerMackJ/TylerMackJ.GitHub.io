@@ -1,12 +1,13 @@
-# Codedoc Boilerplate
+# Tyler Mack Johnson
+<tylermackj@gmail.com>
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
+This site works as a hub for my current projects accesible from a web browser.
 
-To get started, run `codedoc check` to see which configurations you most probably need to change,
-and get instructions on how to change them. Also don't forget to check the official docs of **CODEDOC**.
+To view all projects visit my [GitHub](https://github.com/TylerMackJ)
 
 > :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
-
-> :ToCPrevNext
+> > :Button label=Learn To Code, url=https://tylermackj.github.io/Codedoc-Blog/
+>
+> > :Button label=Bubble Sort Visualizer, url=https://tylermackj.github.io/BubbleSort/
+>
+> > :Button label=Sierpiński Triangle Generator, url=https://tylermackj.github.io/Triforce/

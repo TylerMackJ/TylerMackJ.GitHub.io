@@ -1,8 +1,8 @@
 [Home](/)
-[Markdown Cheat Sheet](/docs/cheat-sheet)
-[Code Features](/docs/code-features)
+[Learn To Code](https://tylermackj.github.io/Codedoc-Blog/)
+[Bubble Sort Visualizer](https://tylermackj.github.io/BubbleSort/)
+[Sierpiński Triangle Generator](https://tylermackj.github.io/Triforce/)
 
 <br><br>
 
-To add links to your other documents, simply
-modify contents of `docs/md/_toc.md`.
+Thanks for checking out my work.
