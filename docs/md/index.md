@@ -15,3 +15,5 @@ To view all projects visit my [GitHub](https://github.com/TylerMackJ)
 > > :Button label=Sierpiński Triangle Generator, url=https://tylermackj.github.io/Triforce/
 >
 > > :Button label=Ear Clipping Interactive Example, url=https://tylermackj.github.io/EarClipping/
+>
+> > :Button label=Anaglyph Interactive Example, url=https://tylermackj.github.io/Anaglyph/
