@@ -78,6 +78,11 @@
   ],
   "components": [
     {
+      "name": "TabSelector",
+      "filename": "/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "VA0FmQjuXaKNy3UPGXs8Pw=="
+    },
+    {
       "name": "GithubSearch",
       "filename": "/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
       "hash": "9SGze+U4cBudjU5FzKElHg=="

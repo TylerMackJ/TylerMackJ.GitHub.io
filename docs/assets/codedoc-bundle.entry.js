@@ -14,12 +14,14 @@ import { tocHighlight } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.
 import { postNavSearch } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
+import { TabSelector } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
 import { GithubSearch } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/TylerMackJ.GitHub.io/TylerMackJ.GitHub.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
 
 const components = {
+  'VA0FmQjuXaKNy3UPGXs8Pw==': TabSelector,
   '9SGze+U4cBudjU5FzKElHg==': GithubSearch,
   'N/zfEpdXtMlmKNCeaCdqYw==': ToCToggle,
   'Y3BNi03gsWoLG5uQdmhiig==': DarkModeSwitch,
