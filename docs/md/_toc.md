@@ -2,25 +2,25 @@
 
 > :Collapse label=Information
 >
-> [Learn To Code](/Learn-to-Code/)
+> [Learn To Code](https://tylermackj.github.io/Learn-to-Code/)
 
 > :Collapse label=Visuallizers
 >
-> [Bubble Sort](/BubbleSort/)
+> [Bubble Sort](https://tylermackj.github.io/BubbleSort/)
 >
-> [Selection Sort](/SelectionSort/)
+> [Selection Sort](https://tylermackj.github.io/SelectionSort/)
 >
-> [Sierpiński Triangle](/Triforce/)
+> [Sierpiński Triangle](https://tylermackj.github.io/Triforce/)
 
 > :Collapse label=Interactives
 >
-> [Ear Clipping](/EarClipping/)
+> [Ear Clipping](https://tylermackj.github.io/EarClipping/)
 >
-> [Anaglyph](/Anaglyph/)
+> [Anaglyph](https://tylermackj.github.io/Anaglyph/)
 
 > :Collapse label=Emulators
 >
-> [Chip 8 Online](/Chip8-Online/)
+> [Chip 8 Online](https://tylermackj.github.io/Chip8-Online/)
 
 <br><br>
 
