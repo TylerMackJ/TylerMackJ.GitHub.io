@@ -25,4 +25,4 @@
 <br><br>
 
 [GitHub](https://github.com/TylerMackJ)
-[Contact](<TylerMackJ@gmail.com>)
+[Contact](mailto:tylermackj@gmail.com)

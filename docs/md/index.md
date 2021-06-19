@@ -1,5 +1,5 @@
 # Tyler Mack Johnson
-[Contact Me](<TylerMackJ@gmail.com>)
+[Contact Me](mailto:tylermackj@gmail.com)
 
 This site works as a hub for my current web accessable projects.
 
