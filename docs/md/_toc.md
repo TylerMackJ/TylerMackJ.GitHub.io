@@ -1,12 +1,28 @@
 [Home](/)
-[Learn To Code](/Learn-to-Code/)
-[Bubble Sort Visualizer](/BubbleSort/)
-[Selection Sort Visualizer](/SelectionSort/)
-[Sierpiński Triangle Generator](/Triforce/)
-[Ear Clipping Interactive Example](/EarClipping/)
-[Anaglyph Interactive Example](/Anaglyph/)
-[Chip 8 Online Emulator](/Chip8-Online/)
+
+> :Collapse label=Information
+>
+> [Learn To Code](/Learn-to-Code/)
+
+> :Collapse label=Visuallizers
+>
+> [Bubble Sort](/BubbleSort/)
+>
+> [Selection Sort](/SelectionSort/)
+>
+> [Sierpiński Triangle](/Triforce/)
+
+> :Collapse label=Interactives
+>
+> [Ear Clipping](/EarClipping/)
+>
+> [Anaglyph](/Anaglyph/)
+
+> :Collapse label=Emulators
+>
+> [Chip 8 Online](/Chip8-Online/)
 
 <br><br>
 
-Thanks for checking out my work.
+[GitHub](https://github.com/TylerMackJ)
+[Contact](<TylerMackJ@gmail.com>)

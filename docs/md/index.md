@@ -1,9 +1,9 @@
 # Tyler Mack Johnson
-<tylermackj@gmail.com>
+[Contact Me](<TylerMackJ@gmail.com>)
 
-This site works as a hub for my current projects accesible from a web browser.
+This site works as a hub for my current web accessable projects.
 
-To view all projects visit my [GitHub](https://github.com/TylerMackJ)
+To view all projects and source codes visit [GitHub.com/TylerMackJ](https://github.com/TylerMackJ)
 
 > :Tabs
 > > :Tab title=Information
