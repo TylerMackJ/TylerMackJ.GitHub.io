@@ -1,10 +1,11 @@
 [Home](/)
-[Learn To Code](https://tylermackj.github.io/Codedoc-Blog/)
-[Bubble Sort Visualizer](https://tylermackj.github.io/BubbleSort/)
-[Selection Sort Visualizer](https://tylermackj.github.io/SelectionSort/)
-[Sierpiński Triangle Generator](https://tylermackj.github.io/Triforce/)
-[Ear Clipping Interactive Example](https://tylermackj.github.io/EarClipping/)
-[Anaglyph Interactive Example](https://tylermackj.github.io/Anaglyph/)
+[Learn To Code](/Learn-to-Code/)
+[Bubble Sort Visualizer](/BubbleSort/)
+[Selection Sort Visualizer](/SelectionSort/)
+[Sierpiński Triangle Generator](/Triforce/)
+[Ear Clipping Interactive Example](/EarClipping/)
+[Anaglyph Interactive Example](/Anaglyph/)
+[Chip 8 Online Emulator](/Chip8-Online/)
 
 <br><br>
 

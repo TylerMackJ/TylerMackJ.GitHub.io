@@ -5,15 +5,25 @@ This site works as a hub for my current projects accesible from a web browser.
 
 To view all projects visit my [GitHub](https://github.com/TylerMackJ)
 
-> :Buttons
-> > :Button label=Learn To Code, url=https://tylermackj.github.io/Codedoc-Blog/
+> :Tabs
+> > :Tab title=Information
+> >
+> > > :Button label=Learn To Code, url=/Learn-to-Code/
+> 
+> > :Tab title=Visualizers
+> >
+> > > :Button label=Bubble Sort, url=/BubbleSort/
+> > 
+> > > :Button label=Selection Sort, url=/SelectionSort/
+> >
+> > > :Button label=Sierpiński Triangle, url=/Triforce/
 >
-> > :Button label=Bubble Sort Visualizer, url=https://tylermackj.github.io/BubbleSort/
+> > :Tab title=Interactives
+> >
+> > > :Button label=Ear Clipping, url=/EarClipping/
+> >
+> > > :Button label=Anaglyph, url=/Anaglyph/
 >
-> > :Button label=Selection Sort Visualizer, url=https://tylermackj.github.io/SelectionSort/
->
-> > :Button label=Sierpiński Triangle Generator, url=https://tylermackj.github.io/Triforce/
->
-> > :Button label=Ear Clipping Interactive Example, url=https://tylermackj.github.io/EarClipping/
->
-> > :Button label=Anaglyph Interactive Example, url=https://tylermackj.github.io/Anaglyph/
+> > :Tab title=Emulators
+> >
+> > > :Button label=Chip-8 Online, url=/Chip8-Online/
